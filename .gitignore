@@ -4,8 +4,10 @@ CMakeFiles
 CMakeScripts
 Testing
 Makefile
+c_cpp_properties.json
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+build
